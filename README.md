@@ -1,3 +1,5 @@
+
+
 # What is Blynk?
 
 ### Note that this Blynk Legacy server is now discontinued and unsupported!
@@ -13,6 +15,10 @@ and when the apps no longer run on newer mobile OS releases.
 
 Installing the iOS app after it is withdrawn from the app store will require jailbraking the Apple mobile device, and Android users
 will need to source and side-load a copy of the legacy app outside of the playstore.
+
+### Some Important Things to Read - about Blynk Legacy server:
+* [Sub-Reddit Conversation](https://www.reddit.com/r/arduino/comments/oqrbq6/comment) (about Discontinued Blynk Local Server)
+* [Blynk Community Forum](https://community.blynk.cc/t/where-to-download-blynk-local-server/55210) (about Discontinued Blynk Local Server)
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
